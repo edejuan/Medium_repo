@@ -1,0 +1,198 @@
+Id,Symbol,Name,DisplaySymbol,Exchange,Portfolio,Currency,Quantity,Cost Per Share,Cost Basis Method,Commission,Date,TimeOfDay,PurchaseFX,Type,Method,Method Execution Ids,Notes        
+
+"1","TSLA","Tesla, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"2","HLMA.L","Halma Plc Ord 10p",,"LSE","Stocks","GBp",,,,,,,,,,,
+        
+"3","GOOG","Alphabet Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"4","COUP","Coupa Software Incorporated",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"5","RDFN","Redfin Corporation",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"6","ASML","ASML Holding N.V. - New York Re",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"7","FB","Facebook, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"8","FVRR","Fiverr International Ltd.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"9","NIO","NIO Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"10","ILMN","Illumina, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"11","AAPL","Apple Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"12","COST","Costco Wholesale Corporation",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"13","CRBU","Caribou Biosciences, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"14","ENPH","Enphase Energy, Inc.",,"NGM","Stocks","USD",,,,,,,,,,,
+        
+"15","MSFT","Microsoft Corporation",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"16","TWTR","Twitter, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"17","NVDA","NVIDIA Corporation",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"18","MELI","MercadoLibre, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"19","UPWK","Upwork Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"20","JNJ","Johnson & Johnson",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"21","7741.T","Hoya Corp",,"JPX","Stocks","JPY",,,,,,,,,,,
+        
+"22","TMO","Thermo Fisher Scientific Inc",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"23","DIM.PA","Sartorius Sted Bio",,"PAR","Stocks","EUR",,,,,,,,,,,
+        
+"24","A","Agilent Technologies, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"25","RSG","Republic Services, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"26","WM","Waste Management, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"27","EL","Estee Lauder Companies, Inc. (T",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"28","IDXX","IDEXX Laboratories, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"29","SHOP","Shopify Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"30","2413.T","M3 Inc",,"JPX","Stocks","JPY",,,,,,,,,,,
+        
+"31","DXCM","DexCom, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"32","NIBE-B.ST","Nibe Industrier Ab Ser. B",,"STO","Stocks","SEK",,,,,,,,,,,
+        
+"33","UMI.BR","Umicore",,"BRU","Stocks","EUR",,,,,,,,,,,
+        
+"34","3690.HK","Meituan-w",,"HKG","Stocks","HKD",,,,,,,,,,,
+        
+"35","PDD","Pinduoduo Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"36","MCO","Moody's Corporation",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"37","ZAL.DE","Zalando Se",,"GER","Stocks","EUR",,,,,,,,,,,
+        
+"38","ADS.DE","Adidas Ag",,"GER","Stocks","EUR",,,,,,,,,,,
+        
+"39","IMCD.AS","Imcd",,"AMS","Stocks","EUR",,,,,,,,,,,
+        
+"40","NVO","Novo Nordisk A/S",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"41","SAP","SAP SE",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"42","ENT.L","Entain Plc Ord Eur0.01",,"LSE","Stocks","GBp",,,,,,,,,,,
+        
+"43","NKE","Nike, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"44","BRK-B","Berkshire Hathaway Inc. New",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"45","CRM","Salesforce.com Inc",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"46","AMT","American Tower Corporation (REI",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"47","ITU.F","Intuit Inc. Dl-,01",,"FRA","Stocks","EUR",,,,,,,,,,,
+        
+"48","ROKU","Roku, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"49","SE","Sea Limited",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"50","ADYEN.AS","Adyen",,"AMS","Stocks","EUR",,,,,,,,,,,
+        
+"51","LMND","Lemonade, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"52","MRNA","Moderna, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"53","AZN","Astrazeneca PLC",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"54","PFE","Pfizer, Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"55","AMZN","Amazon.com, Inc.",,"NMS","Stocks","USD",,,,,,,,,,,
+        
+"56","LIN","Linde plc",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"57","WMT","Walmart Inc.",,"NYQ","Stocks","USD",,,,,,,,,,,
+        
+"58","^DJI","Dow Jones Industrial Average",,"DJI","Indeces","USD",,,,,,,,,,,
+        
+"59","^FTMC","FTSE 250",,"FGI","Indeces","GBP",,,,,,,,,,,
+        
+"60","^FTAS","UK FTSE All Share",,"FSI","Indeces","GBP",,,,,,,,,,,
+        
+"61","^FTSE","FTSE 100",,"FGI","Indeces","GBP",,,,,,,,,,,
+        
+"62","^IXIC","NASDAQ Composite",,"NIM","Indeces","USD",,,,,,,,,,,
+        
+"63","^GSPC","S&P 500",,"SNP","Indeces","USD",,,,,,,,,,,
+        
+"64","^VIX","CBOE Volatility Index",,"WCB","Indeces","USD",,,,,,,,,,,
+        
+"65","PHI.L","Pacific Horizon Investment Trus",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"66","SMT.L","Scottish Mortgage Investment Tr",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"67","EWI.L","Edinburgh Worldwide Investment ",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"68","FCSS.L","Fidelity China Special Situatio",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"69","MNKS.L","Monks Investment Trust Plc Ord ",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"70","CHRY.L","Chrysalis Investments Limited O",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"71","JCGI.L","Jpmorgan China Growth & Income ",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"72","ATT.L","Allianz Technology Trust Plc Or",,"LSE","Investment trusts","GBp",,,,,,,,,,,
+        
+"73","IVV","iShares Core S&P 500 ETF",,"PCX","ETFs","USD",,,,,,,,,,,
+        
+"74","SGLN.L","Ishares Physical Metals Plc Ish",,"LSE","ETFs","GBp",,,,,,,,,,,
+        
+"75","BATT.MI","L&g Battery Value-chain Ucits E",,"MIL","ETFs","EUR",,,,,,,,,,,
+        
+"76","IQQQ.DE","Ishsii-gl.water Dldis",,"GER","ETFs","EUR",,,,,,,,,,,
+        
+"77","QQQM","Invesco NASDAQ 100 ETF",,"NGM","ETFs","USD",,,,,,,,,,,
+        
+"78","BTC-GBP","Bitcoin/GBP",,"CryptoCompare","Crypto","GBP",,,,,,,,,,,
+        
+"79","ETH-GBP","Ethereum/GBP",,"CryptoCompare","Crypto","GBP",,,,,,,,,,,
+        
+"80","ADS.DE","Adidas Ag",,"GER","Portfolio 1","EUR",,,,,,,,,,,
+        
+"81","BABA","Alibaba Group Holding Limited",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"82","ADSK","Autodesk, Inc.",,"NMS","Portfolio 1","USD",,,,,,,,,,,
+        
+"83","BIDU","Baidu, Inc.",,"NMS","Portfolio 1","USD",,,,,,,,,,,
+        
+"84","DEO","Diageo plc",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"85","JPM","JP Morgan Chase & Co.",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"86","KER.PA","Kering",,"PAR","Portfolio 1","EUR",,,,,,,,,,,
+        
+"87","NESN.SW","Nestle N",,"EBS","Portfolio 1","CHF",,,,,,,,,,,
+        
+"88","PG","Procter & Gamble Company (The)",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"89","PRU.L","Prudential Plc Ord 5p",,"LSE","Portfolio 1","GBp",,,,,,,,,,,
+        
+"90","005930.KS","Samsungelec",,"KSC","Portfolio 1","KRW",,,,,,,,,,,
+        
+"91","TSM","Taiwan Semiconductor Manufactur",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"92","TDOC","Teladoc Health, Inc.",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"93","0700.HK","Tencent",,"HKG","Portfolio 1","HKD",,,,,,,,,,,
+        
+"94","TXN","Texas Instruments Incorporated",,"NMS","Portfolio 1","USD",,,,,,,,,,,
+        
+"95","V","Visa Inc.",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"96","WMT","Walmart Inc.",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"97","W","Wayfair Inc.",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
+"98","LIN","Linde plc",,"NYQ","Portfolio 1","USD",,,,,,,,,,,
+        
